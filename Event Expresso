@@ -1,0 +1,13 @@
+Have Elementor Installed Lastest released version.
+Also use Event Espresso as my booking app
+When setting the template to use I set to Elementor canvas
+When the cusotmer books and selects invoice,
+the event espresso returns the payment option and the invoice view and then invoice download option.
+With elementor set to elementor canvas the download of the invoice is restricted (the download fails).
+In the bug test recommend by Event Espresso says set template of page back to twenty twenty word press and retry, the download works fine with twenty twenty and the event espresso software is performing properly.
+Allowing a download
+Any idea how I can fix and resolve so the cusotmer can downlaod the invoice/order
+or if elementor needs an update, can you add it to the next release please. If have to do something, please let me know.
+
+Works fine in twenty twenty word press.
+can you help?
